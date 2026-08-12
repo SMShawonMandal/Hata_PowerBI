@@ -1,0 +1,63 @@
+Size_ID,SizeName,NumericSize,SizeType
+1,US M 6,6.0,US Men
+2,US M 7,7.0,US Men
+3,US M 8,8.0,US Men
+4,US M 9,9.0,US Men
+5,US M 10,10.0,US Men
+6,US M 11,11.0,US Men
+7,US M 12,12.0,US Men
+8,US M 13,13.0,US Men
+9,US W 5,5.0,US Women
+10,US W 6,6.0,US Women
+11,US W 7,7.0,US Women
+12,US W 8,8.0,US Women
+13,US W 9,9.0,US Women
+14,US W 10,10.0,US Women
+15,US W 11,11.0,US Women
+16,US W 12,12.0,US Women
+17,US K 10,10.0,US Kids
+18,US K 9,9.0,US Kids
+19,US K 8,8.0,US Kids
+20,US K 7,7.0,US Kids
+21,US K 6,6.0,US Kids
+22,US K 1,1.0,US Kids
+23,US K 2,2.0,US Kids
+24,US K 3,3.0,US Kids
+25,US K 4,4.0,US Kids
+26,US K 5,5.0,US Kids
+27,US K 6,6.0,US Kids
+28,US K 7,7.0,US Kids
+29,US K 8,8.0,US Kids
+30,US K 9,9.0,US Kids
+31,US K 10,10.0,US Kids
+32,US K 11,11.0,US Kids
+33,US K 12,12.0,US Kids
+34,US K 13,13.0,US Kids
+35,US K 1.5,1.5,US Kids
+36,US K 2.5,2.5,US Kids
+37,US K 3.5,3.5,US Kids
+38,US K 4.5,4.5,US Kids
+39,US K 5.5,5.5,US Kids
+40,US K 6.5,6.5,US Kids
+41,US K 7.5,7.5,US Kids
+42,US K 8.5,8.5,US Kids
+43,US K 9.5,9.5,US Kids
+44,US K 10.5,10.5,US Kids
+45,US K 11.5,11.5,US Kids
+46,US K 12.5,12.5,US Kids
+47,EU 36,36.0,EU
+48,EU 37,37.0,EU
+49,EU 38,38.0,EU
+50,EU 39,39.0,EU
+51,EU 40,40.0,EU
+52,EU 41,41.0,EU
+53,EU 42,42.0,EU
+54,EU 43,43.0,EU
+55,EU 44,44.0,EU
+56,EU 45,45.0,EU
+57,EU 46,46.0,EU
+58,One Size,,Accessory
+59,Small,,Accessory
+60,Medium,,Accessory
+61,Large,,Accessory
+62,XL,,Accessory

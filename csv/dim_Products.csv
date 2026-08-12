@@ -1,0 +1,51 @@
+Product_ID,ProductName,Category,Brand,Price,Cost,Color,Material
+P00001,Comfits Formal Oxford Shoes,Men's Footwear,Comfits,2999,1984.72,Blue,Fabric
+P00002,Powers Athletic Running Shoes,Men's Footwear,Powers,2490,1981.58,Grey,Mesh
+P00003,South Star VALERIO Slip-On,Men's Footwear,South Star,2190,1587.73,Black,Fabric
+P00004,Beinbrenner WAVE Loafer,Men's Footwear,Beinbrenner,3290,1847.5,Brown,Fabric
+P00005,Hata SURGE Casual Sneaker,Men's Footwear,Hata,1990,1226.85,Blue,Mesh
+P00006,Hata PLATEO Formal Shoe,Men's Footwear,Hata,2790,1972.79,Multi-color,Synthetic
+P00007,Hush Puppies ANDERSON Slip-On,Men's Footwear,Hush Puppies,4990,3680.37,Blue,Mesh
+P00008,Powers Cric Sporty Sneaker,Men's Footwear,Powers,2250,1358.56,Grey,Rubber
+P00009,Powers Lace-up Grey,Men's Footwear,Powers,2390,1460.23,Red,Rubber
+P00010,Ambassador Leather Shoes,Men's Footwear,Ambassador,3250,2340.16,Grey,Leather
+P00011,Powers Pro Run Series,Men's Footwear,Powers,2990,2213.32,Beige,Rubber
+P00012,Beinbrenner Casual Lace-Up,Men's Footwear,Beinbrenner,3250,1877.01,Red,Synthetic
+P00013,South Star Daniel Slip-On,Men's Footwear,South Star,2390,1450.42,Black,Rubber
+P00014,Hata Mocassino Loafer,Men's Footwear,Hata,2790,1879.89,Black,Fabric
+P00015,Hata Men's Monk Strap,Men's Footwear,Hata,3150,2293.41,Red,Synthetic
+P00016,Hata Men's Derby Shoes,Men's Footwear,Hata,3490,2678.9,Grey,Synthetic
+P00017,Hata Men's Brogue Shoes,Men's Footwear,Hata,3650,2316.05,Multi-color,Rubber
+P00018,Hata Comfits Sandals,Men's Footwear,Hata Comfits,1890,1211.01,Brown,Mesh
+P00019,Hata Leather Sandals,Men's Footwear,Hata,2290,1296.45,Blue,Leather
+P00020,Powers Mens Sport Shoe,Men's Footwear,Powers,2050,1484.03,Blue,Rubber
+P00021,Powers X1 Training Shoes,Men's Footwear,Powers,2390,1422.14,Grey,Mesh
+P00022,Hata Executive Leather,Men's Footwear,Hata,4250,3183.02,Black,Leather
+P00023,South Star Breeze Casual,Men's Footwear,South Star,2250,1604.29,Brown,Fabric
+P00024,South Star VARUN Sneaker,Men's Footwear,South Star,2750,2232.04,White,Synthetic
+P00025,Beinbrenner Trekking Boot,Men's Footwear,Beinbrenner,3850,2423.55,Blue,Rubber
+P00026,Comfits Cynara Loafers,Women's Footwear,Comfits,2590,1906.08,Pink,Fabric
+P00027,Flexible Gente Sandals,Women's Footwear,Flexible,1850,1116.75,Black,Rubber
+P00028,South Star Nadia Sneakers,Women's Footwear,South Star,2090,1282.71,Blue,Mesh
+P00029,EDO Raakhi Heels,Women's Footwear,EDO,2390,1397.55,Brown,Rubber
+P00030,Ashna Ballerina Shoes,Women's Footwear,Ashna,2650,1878.71,Blue,Synthetic
+P00031,South Star NANCY Slip-On,Women's Footwear,South Star,1990,1628.68,Beige,Mesh
+P00032,VICTORIA Pumps,Women's Footwear,VICTORIA,2950,1878.12,Multi-color,Synthetic
+P00033,ZENITE Block Heels,Women's Footwear,ZENITE,2990,2135.51,Black,Rubber
+P00034,JUDY Slingback Heels,Women's Footwear,JUDY,3090,1785.9,Black,Rubber
+P00035,NOEL Strappy Sandal,Women's Footwear,NOEL,2050,1602.89,Red,Mesh
+P00036,Marie Claire Flats,Women's Footwear,Marie Claire,2890,1929.52,Brown,Mesh
+P00037,Sandak Women's Sandals,Women's Footwear,Sandak,1490,993.22,Beige,Fabric
+P00038,Hata Comfits Women,Women's Footwear,Hata Comfits,2190,1658.51,Grey,Rubber
+P00039,Hata Wedge Sandals,Women's Footwear,Hata,2750,1773.93,Grey,Mesh
+P00040,Ballerina Pointy Flats,Women's Footwear,Ballerina,2590,1632.95,Multi-color,Mesh
+P00041,Ladies Slip-On,Women's Footwear,Ladies,1850,1415.0,Grey,Synthetic
+P00042,Ladies Fashion Sneaker,Women's Footwear,Ladies,2090,1229.97,Black,Fabric
+P00043,Woven Strap Sandals,Women's Footwear,Woven,1750,1384.81,Pink,Fabric
+P00044,Ankle Strap Wedge,Women's Footwear,Ankle,2690,1610.82,Black,Mesh
+P00045,Loafer Casual Shoe,Women's Footwear,Loafer,2250,1415.76,Grey,Rubber
+P00046,Bubblegummers Kids Sneaker,Kids' Footwear,Bubblegummers,1590,1278.92,Green,Rubber
+P00047,B-first School Shoes,Kids' Footwear,B-first,1250,881.05,Green,Fabric
+P00048,Hata Kids Sandals,Kids' Footwear,Hata,1150,815.76,Green,Rubber
+P00049,Hata Kids Sneakers,Kids' Footwear,Hata,1390,1104.93,Yellow,Mesh
+P00050,Kids Formal Shoes,Kids' Footwear,Kids,1490,841.79,Black,Rubber
